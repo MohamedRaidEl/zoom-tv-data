@@ -10,7 +10,7 @@
       "time": "00:00",
       "desc": "كأس العالم",
       "links": {
-        "1080": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/35154.m3u8",
+        "1080": "https://cors-anywhere.herokuapp.com/http://tamymo.info:80/live/tamymougm7d2/passugm7d2/35154.m3u8",
         "720": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/35160.m3u8",
         "480": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/35166.m3u8"
       }

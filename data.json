@@ -3,16 +3,16 @@
     {
       "id": 1,
       "matchDate": "2026-06-15",
-      "t1Name": "ريال مدريد",
-      "t1Logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-      "t2Name": "برشلونة",
-      "t2Logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona.svg",
-      "time": "22:00",
-      "desc": "الدوري الإسباني",
+      "t1Name": "ساحل العاج",
+      "t1Logo": "https://j.top4top.io/p_38126gz537.png",
+      "t2Name": "الإكوادور",
+      "t2Logo": "https://k.top4top.io/p_38127r4bp6.png",
+      "time": "00:00",
+      "desc": "كأس العالم",
       "links": {
-        "1080": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "720": "",
-        "480": ""
+        "1080": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/35154.m3u8",
+        "720": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/35160.m3u8",
+        "480": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/35166.m3u8"
       }
     }
   ],

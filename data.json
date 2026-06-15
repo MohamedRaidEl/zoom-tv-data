@@ -1,27 +1,12 @@
 {
   "matches": [
     {
-      "id": 1,
-      "matchDate": "2026-06-15",
-      "t1Name": "ريال مدريد",
-      "t1Logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-      "t2Name": "برشلونة",
-      "t2Logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona.svg",
-      "time": "22:00",
-      "desc": "الدوري الإسباني",
-      "links": {
-        "1080": "رابط_البث_هنا",
-        "720": "",
-        "480": ""
-      }
-    },
-    {
       "id": 2,
       "matchDate": "2026-06-15",
       "t1Name": "مانشستر سيتي",
       "t1Logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
       "t2Name": "ليفربول",
-      "t2Logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "t2Logo": "https://upload.wikimedia.org/wikipedia/en/0/0/Liverpool_FC.svg",
       "time": "18:00",
       "desc": "الدوري الإنجليزي",
       "links": {
@@ -34,7 +19,7 @@
   "channels": [
     {
       "id": 1,
-      "name": "بي إن سبورت ماكس",
+      "name": "بي إن سبورت ماكس 1",
       "logo": "https://g.top4top.io/p_3812stnqk1.png",
       "links": {
         "1080": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/1373128.m3u8",
@@ -44,12 +29,13 @@
     },
     {
       "id": 2,
-      "name": "بي إن سبورت ماكس",
+      "name": "بي إن سبورت ماكس 2",
       "logo": "https://g.top4top.io/p_3812stnqk1.png",
       "links": {
         "1080": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/1373128.m3u8",
         "720": "",
         "480": ""
       }
+    }
   ]
 }

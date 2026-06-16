@@ -10,9 +10,9 @@
       "time": "18:00",
       "desc": "الدوري الإنجليزي",
       "links": {
-        "1080": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/1373059.m3u8",
-        "720": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/1373059.m3u8",
-        "480": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/1373059.m3u8"
+        "1080": "https://stream.kurdtv.live/alwan-sport/index.m3u8",
+        "720": "https://stream.kurdtv.live/alwan-sport/index.m3u8",
+        "480": "https://stream.kurdtv.live/alwan-sport/index.m3u8"
       }
     }
   ],
@@ -22,7 +22,7 @@
       "name": "بي إن سبورت ماكس 1",
       "logo": "https://g.top4top.io/p_3812stnqk1.png",
       "links": {
-        "1080": "http://tamymo.info:80/live/tamymougm7d2/passugm7d2/1373128.m3u8",
+        "1080": "https://stream.kurdtv.live/alwan-sport/index.m3u8",
         "720": "",
         "480": ""
       }

@@ -2,11 +2,11 @@
   "matches": [
     {
       "id": 2,
-      "matchDate": "2026-06-17",
+      "matchDate": "2026-06-15",
       "t1Name": "مانشستر سيتي",
       "t1Logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
       "t2Name": "ليفربول",
-      "t2Logo": "https://upload.wikimedia.org/wikipedia/en/0/0/Liverpool_FC.svg",
+      "t2Logo": "https://upload.wikimedia.org/wikipedia/en/0/0/Liverpool_FC_svg",
       "time": "18:00",
       "desc": "الدوري الإنجليزي",
       "links": {
@@ -22,11 +22,10 @@
       "name": "بي إن سبورت ماكس 1",
       "logo": "https://g.top4top.io/p_3812stnqk1.png",
       "links": {
-        "1080": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
-        "720": "",
-        "480": ""
+        "1080": "http://185.160.192.14/live/171348492752/5S6HGsea3j/256102.m3u8",
+        "720": "http://185.160.192.14/live/171348492752/5S6HGsea3j/256102.m3u8",
+        "480": "http://185.160.192.14/live/171348492752/5S6HGsea3j/256102.m3u8"
       }
-    },
     }
   ]
 }
